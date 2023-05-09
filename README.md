@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi! I'm Valeria Álvarez 👋
+
+Languajes: JavaScript & JAVA, for the moment.
+
+Frontend (REACT, HTML5 y CSS3, BOOTSTRAP, JavaScript)
+Backend (MySQL, JAVA, REST API’s with Spring Boot)
+
 
 <!--
 **notvale/notvale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
